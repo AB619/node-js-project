@@ -1,0 +1,22 @@
+{
+  "name": "node-js-project",
+  "version": "1.0.0",
+  "description": "Project created as a part of Node.js Global Mentoring Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AB619/node-js-project.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Ankit Bhaskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AB619/node-js-project/issues"
+  },
+  "homepage": "https://github.com/AB619/node-js-project#readme"
+}
